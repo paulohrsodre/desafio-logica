@@ -15,7 +15,7 @@ Se XP for entre 9.001 e 10.000= Imortal\
 Se XP for maior ou igual a 10.001 = Radiante
 
 ### Como usar:
-O programa deve ser executado no terminal/console seguindo os passos abaixo:
+O programa deve ser executado no terminal/console seguindo os passos abaixo:\
 P.s.: É necessário ter o Node.js instalado para executar o comando "node" no terminal/console.
 
 - Digite no console: node/index.js, depois aperte ENTER
