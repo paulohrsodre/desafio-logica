@@ -16,6 +16,8 @@ Se XP for maior ou igual a 10.001 = Radiante
 
 ### Como usar:
 O programa deve ser executado no terminal/console seguindo os passos abaixo:
+P.s.: É necessário ter o Node.js instalado para executar o comando "node" no terminal/console.
+
 - Digite no console: node/index.js, depois aperte ENTER
 
 ![Captura de tela 2024-05-13 195754](https://github.com/paulohrsodre/desafio-logica/assets/31263324/f6acec45-0796-4ca9-8043-3570aa132e19)
